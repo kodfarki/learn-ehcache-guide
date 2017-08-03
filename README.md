@@ -8,7 +8,11 @@
     
 You may also get the latest maven dependency configuration from Ehcache Downloads page: http://www.ehcache.org/downloads/#maven.
 
-### Three Tier Cache 
+### Multiple Tier Setup
+
+http://www.ehcache.org/documentation/3.3/tiering.html#multiple-tiers-setups
+
+### Three Tier Setup Example 
 
 http://www.ehcache.org/documentation/3.3/getting-started.html#three-tiers
 
